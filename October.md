@@ -16,3 +16,6 @@
 
 # Sunday, 15. October 2017
 
+
+# Tuesday, 17. October 2017
+
